@@ -1,0 +1,14 @@
+.container { font-style :italic;}
+.container_2 { font-style:italic;}
+.container_3 {font-style:Comic Sans MS;}
+.couleur_vert {color:green;}
+.couleur_jaune {color:yellow;}
+.couleur_blanc {color:white;}
+.couleur_bleu {color:blue;}
+.couleur_violet {color:purple;}
+.couleur_gold {color:goldenrod;}
+.souligne {text-decoration: underline;}	
+.gras {font-weight:bold;}
+.flotte {   float:left; }
+
+ 
